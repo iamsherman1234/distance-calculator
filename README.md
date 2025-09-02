@@ -2,7 +2,8 @@
 
 > **Professional distance and duration calculator supporting multiple routing providers with async processing optimized for Google Colab**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamsherman1234/distance-calculator/blob/main/notebooks/distance_calculator_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamsherman1234/distance-calculator/blob/main/notebooks/distance_calculator.ipynb)
+[![Open Demo In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamsherman1234/distance-calculator/blob/main/notebooks/distance_calculator_demo.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![GitHub stars](https://img.shields.io/github/stars/iamsherman1234/distance-calculator?style=social)](https://github.com/iamsherman1234/distance-calculator/stargazers)
