@@ -12,7 +12,7 @@
 
 - **🔥 Multiple Routing Providers**: Google Maps, OSRM, OpenRouteService, GraphHopper, HERE Maps, Mapbox, and more
 - **⚡ Async Processing**: High-performance concurrent processing with configurable batch sizes
-- **🛡️ Pre-configured API Keys**: Ready-to-use with built-in API keys for major providers
+- **🛡️ Requires API Keys**: Requires API keys for major providers except OSRM (Free sevice)
 - **📊 Smart Data Handling**: Supports CSV, Excel files via upload, URL, or file path
 - **🎯 Flexible Usage**: Interactive mode for beginners, simple mode for quick tasks
 - **💪 Error Resilience**: Robust error handling and progress tracking
@@ -68,11 +68,11 @@ Your CSV/Excel file must contain these columns:
 
 |       Provider        |      API Key      |     Status        |      Features   |
 |-----------------------|-------------------|-------------------|------------------|
-| **OSRM**              | ❌ Free           | ✅ Public Server  | Fast, no limits   |
-| **Google Maps**       | ✅ Pre-configured | ✅ Ready          | High accuracy     |
-| **OpenRouteService**  | ✅ Pre-configured | ✅ Ready          | European focus    |
-| **GraphHopper**       | ✅ Pre-configured | ✅ Ready          | Flexible routing  |
-| **Mapbox OSRM**       | ✅ Pre-configured | ✅ Ready          | Mapbox quality    |
+| **OSRM**              | ✅Free            | ✅ Public Server  | Fast, no limits   |
+| **Google Maps**       | 🔑 Bring your own | ⚙️ Configurable   | High accuracy     |
+| **OpenRouteService**  | 🔑 Bring your own | ⚙️ Configurable   | European focus    |
+| **GraphHopper**       | 🔑 Bring your own | ⚙️ Configurable   | Flexible routing  |
+| **Mapbox OSRM**       | 🔑 Bring your own | ⚙️ Configurable   | Mapbox quality    |
 | **HERE Maps**         | 🔑 Bring your own | ⚙️ Configurable   | Enterprise grade  |
 
 ## ⚙️ Configuration Options
@@ -94,13 +94,6 @@ Results include original data plus:
 - **Distance**: Route distance in kilometers
 - **Duration**: Travel time in minutes
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
