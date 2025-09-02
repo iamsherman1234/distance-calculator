@@ -1,6 +1,6 @@
 # 🛣️ Distance Calculator
 
-> **Professional distance and duration calculator supporting multiple routing providers with async processing optimized for Google Colab**
+> **Distance and duration calculator supporting multiple routing providers with async processing optimized for Google Colab**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamsherman1234/distance-calculator/blob/main/notebooks/distance_calculator.ipynb)
 [![Demo](https://img.shields.io/badge/Demo-Open-blue?style=flat-square&logo=github)](https://colab.research.google.com/github/iamsherman1234/distance-calculator/blob/main/notebooks/distance_calculator_demo.ipynb)
